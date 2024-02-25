@@ -1,4 +1,6 @@
-### Hi there 👋
+### Responsable d'applications Educentre
+
+📫 How to reach me: frederic@educentre.fr
 
 <!--
 **fredericEducentre/fredericEducentre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

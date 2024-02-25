@@ -1,6 +1,8 @@
 ### Responsable d'applications Educentre
 
-📫 How to reach me: frederic@educentre.fr
+- 🌱 I’m currently learning devOps
+- 📫 How to reach me: frederic@educentre.fr
+- 😄 Hobbies : Video games, sports and arts
 
 <!--
 **fredericEducentre/fredericEducentre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,6 +4,11 @@
 - 📫 How to reach me: frederic@educentre.fr
 - 😄 Hobbies : Video games, sports and arts
 
+### DevOps skills
+
+| Jenkins | Sonarqube | Kubernetes | Terraform | Ansible |
+:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+
 ### Programming and Markup Languages
 
 ![Bash](https://camo.githubusercontent.com/5f2b9e89d34640fb08c648180776d9770495e5cf6a6ab9511af6596621fe47d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426173682d3132313031312e7376673f6c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465)

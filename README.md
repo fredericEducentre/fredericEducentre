@@ -1,6 +1,6 @@
 ### Responsable d'applications Educentre
 
-- 🌱 I’m currently learning IA
+- 🌱 I’m currently learning AI
 - 📫 How to reach me: frederic@educentre.fr
 - 😄 Hobbies : Video games, sports and arts
 

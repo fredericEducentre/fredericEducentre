@@ -24,3 +24,6 @@ Si tu as suivi un cours DevOps avec moi, voici quelques ressources qui devrait t
 |:------------------:|
 |https://github.com/fredericEducentre/jenkins_sonarqube_docker_full_install|
 
+| Les challenges K8s |
+|:-------------------:|
+| https://github.com/fredericEducentre/k8s_challenges |

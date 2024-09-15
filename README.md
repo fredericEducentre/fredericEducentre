@@ -1,4 +1,4 @@
-### COO of [Educentre](https://www.educentre.fr) 
+### Chief Operations Officer of [Educentre](https://www.educentre.fr) 
 
 Hello, moi c'est Frédéric !
 

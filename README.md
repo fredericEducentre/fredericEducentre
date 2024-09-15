@@ -9,7 +9,7 @@ Si tu as la moindre question, n'hésite pas à m'envoyer un message sur frederic
 
 ### Ressources :
 
-Si tu as suivi un cours DevOps avec moi, tu trouveras le TP que je t'ai donné ci-dessous.
+Si tu as suivi un cours DevOps avec moi, voici quelques ressources qui devrait t'aider.
 
 | DevOps |
 :---------------:|

@@ -27,3 +27,7 @@ Si tu as suivi un cours DevOps avec moi, voici quelques ressources qui devrait t
 | Les challenges K8s |
 |:-------------------:|
 | https://github.com/fredericEducentre/k8s_challenges |
+
+| AWS |
+|:---:|
+| https://github.com/fredericEducentre/webserver_and_monitoring_on_aws/ |
